@@ -1,3 +1,5 @@
+About myself:
+
 - 👋 Hello! I'm Lestin Tan. I'm a passionate beginner in the world of programming, specifically Python,
 and I have a keen interest in exploring the fascinating realm of data analytics.
 - 👀 I’m interested in data analytics and wish to pursue a future job in that industry.
